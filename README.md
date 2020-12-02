@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Andrew Dillon 
+2. Student ID: 2382400
+3. Email: adillon@chapman.edu
+4. Class: CPSC-298
 5. Assignment: numbers 
 
 ## Application Purpose
